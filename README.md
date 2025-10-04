@@ -81,7 +81,7 @@ GET /dealers/{id}/vehicles → Get all vehicles of a dealer
 📸 Screenshots
 
 2. API Testing in Postman
-![Postman Test](screenshots/Postman.png)
+![Postman Test](screenshots/postman (3).jpg)
 
 🤝 Author
 Azeem Khan
